@@ -1,7 +1,7 @@
 # k8s-mongo
 mongoDB and mongo express application setup with k8s components
 
-
+-------start------
 
 1> create a secret for mongo deployment
 
